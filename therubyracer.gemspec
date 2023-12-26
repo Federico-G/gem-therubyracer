@@ -19,5 +19,5 @@ Gem::Specification.new do |gem|
   gem.post_install_message = "Unmaintened gem. Please consider using `mini_racer` instead."
 
   gem.add_dependency 'ref'
-  gem.add_dependency 'libv8', '~> 3.16.14.15'
+  gem.add_dependency 'libv8', '~> 8.4.255.0'
 end
